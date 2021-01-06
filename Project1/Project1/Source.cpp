@@ -12,7 +12,7 @@ void main()
 	cout << "Nhap rong= " << "\n";
 	cin >> rongv;
 	cout << "Dien tich hinh vuong la: " << rongv*rongv << "\n";
-
+	cout << "Dien tich hinh vuong la: " << rongv/rongv << "\n";
 	system("pause");
 
 }
