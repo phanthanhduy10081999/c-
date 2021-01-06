@@ -12,15 +12,8 @@ void main()
 	cout << "Nhap rong= " << "\n";
 	cin >> rongv;
 	cout << "Dien tich hinh vuong la: " << rongv*rongv << "\n";
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-	cout << "Dien tich hinh vuong la: " << rongv - rongv << "\n";
->>>>>>> cvhinhvuong
 	cout << "chu vi hinh vuong la: " << rongv*4 << "\n";
-=======
-	cout << "Dien tich hinh vuong la: " << rongv/rongv << "\n";
->>>>>>> dthinhvuong
+
 	system("pause");
 
 }
